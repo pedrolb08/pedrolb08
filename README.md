@@ -4,7 +4,11 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Building+software,+one+project+at+a+time." alt="Typing SVG" />
 </h3>
-### Aspiring Software Developer
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Learning.+Building+project+Creating." alt="Typing SVG" />
+</h3>
+Aspiring Software Developer
 
 I'm a Software Development student passionate about building web applications and continuously learning new technologies.
 
